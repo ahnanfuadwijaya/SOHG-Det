@@ -5,7 +5,7 @@
 - Machine Learning Model
 
 ## Backend Module
-- 
+- SOHG-Det RESTFUL-API 
 
 ## Android Module
 - Camera simulator for object detection
