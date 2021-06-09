@@ -14,4 +14,4 @@
 - Get push notification when a criminal case happens
 
 ## Machine Learning Model
--
+- [Colab](https://colab.research.google.com/drive/1RX6yLLnLOlwZpBNJP0aY-1A_CwJihUSZ?usp=sharing)
