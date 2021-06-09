@@ -12,3 +12,6 @@
 - Get criminal cases list
 - See criminal case detail
 - Receive push notification when criminal case happens
+
+## Machine Learning Model
+-
