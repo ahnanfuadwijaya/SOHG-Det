@@ -9,9 +9,9 @@
 
 ## Android Module
 - Camera simulator for object detection
-- Get criminal cases list
-- See criminal case detail
-- Receive push notification when criminal case happens
+- Show criminal cases list
+- Show criminal case detail
+- Get push notification when a criminal case happens
 
 ## Machine Learning Model
 -
