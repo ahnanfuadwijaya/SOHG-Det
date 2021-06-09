@@ -4,3 +4,6 @@
 [submodule "Submodules/SOHG-Det-REST-API"]
 	path = Submodules/SOHG-Det-REST-API
 	url = https://github.com/ahnanfuadwijaya/SOHG-Det-REST-API.git
+[submodule "Submodules/SOHG-Det-ML-Model"]
+	path = Submodules/SOHG-Det-ML-Model
+	url = https://github.com/ahnanfuadwijaya/SOHG-Det-ML-Model.git
