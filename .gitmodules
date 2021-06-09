@@ -1,3 +1,6 @@
 [submodule "Submodules/SOHG-Det-Android"]
 	path = Submodules/SOHG-Det-Android
 	url = https://github.com/ahnanfuadwijaya/snapcrime-android
+[submodule "Submodules/SOHG-Det-REST-API"]
+	path = Submodules/SOHG-Det-REST-API
+	url = https://github.com/ahnanfuadwijaya/SOHG-Det-REST-API.git
